@@ -1,10 +1,12 @@
 <h1 align="center">Hello👋 I'm Tris</h1>
 
 # 💫 About Me:
-I am a 21-year-old self-taught developer specializing in **full-stack** and **web development**. I'm constantly learning and building with modern web technologies like React, Next.js, and TypeScript. I love creating interactive, user-friendly applications and solving challenging problems through code.
+I am a 22-year-old self-taught developer specializing in **full-stack** and **web development**. I'm constantly learning and building with modern web technologies like React, Next.js, and TypeScript. I love creating interactive, user-friendly applications and solving challenging problems through code.
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tris-dev-017627226/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23002366.svg?style=for-the-badge)](https://trisdev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tris-dev-017627226/)
+
 
 ### 💻 Tech Stack:
 
